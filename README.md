@@ -6,6 +6,11 @@ Integrants del projecte:
 - Ana Marrodan Badell
 - Mireia Solanich Ventura
 
+## ON TROBAR:
+ * El fitxer CSV amb les dades originals --> a la carpeta **data**
+ * El fitxer CSV amb les dades finals analitzades. --> a la carpeta **data** (sufix CLEAN)
+ * Una carpeta amb el codi generat per analitzar les dades.  --> a la carpeta **code**, format Rmd
+
 ## TAULA DE CONTRIBUCIONS
 
 (s'ha hagut d'afegir al readme i a la versió Rmd del document, doncs la versió pdf presentabla problemes al renderitzar la taula)
