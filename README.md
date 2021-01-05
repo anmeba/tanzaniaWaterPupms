@@ -6,6 +6,16 @@ Integrants del projecte:
 - Ana Marrodan Badell
 - Mireia Solanich Ventura
 
+## TAULA DE CONTRIBUCIONS
+
+(s'ha hagut d'afegir al readme i a la versió Rmd del document, doncs la versió pdf presentabla problemes al renderitzar la taula)
+
+| Contribució |Firma|
+| ------------- |:-------------:| 
+|Investigació prèvia|AM i MS|
+|Redacció de les respostes|AM i MS|
+|Desenvolupament codi|AM i MS|
+
 ## 1. Descripció del dataset. Perquè és important i quina pregunta/problema pretén respondre?
 
 l'objecte del següent projecte cosisteix en predir quines de les següents bombes d'aigua són o no defectuoses.
@@ -70,3 +80,5 @@ Fitxers 'test_set_values.csv' i 'training_set_lablels.csv' contenten els següen
 - **source_class**: Font de l'aigua
 - **waterpoint_type**: Tipus de punt d’aigua
 - **waterpoint_type_group**: Tipus de punt d’aigua
+
+
