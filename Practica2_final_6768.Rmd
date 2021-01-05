@@ -1034,7 +1034,7 @@ WUG = water users group
 ## Taula de contribucions
 
 
-| Apartat     | Contributors           |
+| Contribució |Firma|
 | ------------- |:-------------:| 
 |Investigació prèvia|AM i MS|
 |Redacció de les respostes|AM i MS|
