@@ -7,6 +7,7 @@ Integrants del projecte:
 - Mireia Solanich Ventura
 
 ## ON TROBAR:
+ * PDF amb les respostes --> **pàgina principal** del repositori, format PDF
  * El fitxer CSV amb les dades originals --> a la carpeta **data**
  * El fitxer CSV amb les dades finals analitzades. --> a la carpeta **data** (sufix CLEAN)
  * Una carpeta amb el codi generat per analitzar les dades.  --> a la carpeta **code**, format Rmd
