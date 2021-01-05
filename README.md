@@ -10,6 +10,8 @@ Integrants del projecte:
  * El fitxer CSV amb les dades originals --> a la carpeta **data**
  * El fitxer CSV amb les dades finals analitzades. --> a la carpeta **data** (sufix CLEAN)
  * Una carpeta amb el codi generat per analitzar les dades.  --> a la carpeta **code**, format Rmd
+ * Taula de contribuacions --> README
+ * Una Wiki on hi hagi els noms dels components del grup i una descripció dels fitxers. --> README i Wiki del repositori
 
 ## TAULA DE CONTRIBUCIONS
 
