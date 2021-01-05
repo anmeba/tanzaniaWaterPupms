@@ -1031,4 +1031,15 @@ VWC = Village water committee
 WUA = water users association
 WUG = water users group
 
+## Taula de contribucions
 
+
+| Apartat     | Contributors           |
+| ------------- |:-------------:| 
+|1 |AM i MS|
+| 2|AM i MS|
+| 3|AM i MS|
+| 4|AM i MS|
+| 5|AM i MS|
+| 6|AM i MS|
+| 7|AM i MS|
